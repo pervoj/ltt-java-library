@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ltt-java-library:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ltt_java_library_jar</output-path>
+    <root id="archive" name="ltt-java-library.jar">
+      <element id="module-output" name="ltt-java-library" />
+    </root>
+  </artifact>
+</component>
