@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lttlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/lttlib_jar/lttlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
